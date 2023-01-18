@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aout2021/Aout2021.iml" filepath="$PROJECT_DIR$/Aout2021/Aout2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam Algo.iml" filepath="$PROJECT_DIR$/Exam Algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Janvier2017/Janvier2017.iml" filepath="$PROJECT_DIR$/Janvier2017/Janvier2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Janvier2020/Janvier2020.iml" filepath="$PROJECT_DIR$/Janvier2020/Janvier2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Janvier2021/Janvier2021.iml" filepath="$PROJECT_DIR$/Janvier2021/Janvier2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juin2021/Juin2021.iml" filepath="$PROJECT_DIR$/Juin2021/Juin2021.iml" />
+    </modules>
+  </component>
+</project>
